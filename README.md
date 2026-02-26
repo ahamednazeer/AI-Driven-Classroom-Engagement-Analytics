@@ -129,6 +129,12 @@ npm run dev
 └── README.md
 ```
 
+step1: .\venv\Scripts\Activate.ps1
+step2: cd backend
+step3: python run.py
+step4: cd frontend
+step5: docker-compose up 
+
 ---
 
 ## License
